@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\bin\Debug\net9.0\repasoGIt.exe
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\bin\Debug\net9.0\repasoGIt.deps.json
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\bin\Debug\net9.0\repasoGIt.runtimeconfig.json
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\bin\Debug\net9.0\repasoGIt.dll
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\bin\Debug\net9.0\repasoGIt.pdb
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.AssemblyInfo.cs
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.dll
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\refint\repasoGIt.dll
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.pdb
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\repasoGIt.genruntimeconfig.cache
+C:\Users\DELL\Documents\ejerciciosVisualCode\repasoGIt\obj\Debug\net9.0\ref\repasoGIt.dll
