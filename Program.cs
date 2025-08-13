@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("HOLA MUNDO");
+        Console.WriteLine("no se porque no se puede subir esta mierda");
     }
 }
